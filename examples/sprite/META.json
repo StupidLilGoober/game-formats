@@ -1,0 +1,10 @@
+{
+  "name":"sprite_name",
+  "width":32,
+  "height":32,
+  "fps":8,
+  "animations": {
+    "idle": [0, 1],
+    "walk": [2, 3]
+  }
+}
