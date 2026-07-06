@@ -30,7 +30,7 @@ Each number references the index of a frame. Example:
 
 ---
 
-> ![TIP]
+> [!TIP]
 > All frame filenames should use the same number of digits (zero-padded).
 > This ensures they sort correctly in file browsers and when listed 
 > programmatically.
