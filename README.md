@@ -13,4 +13,5 @@ file formats are intended to be freely implemented by anyone.
 
 ## Formats
 
-So far, only one format: `.spr`. I'll likely add more in the future.
+* Sprite
+* Level
